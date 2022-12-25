@@ -1,7 +1,7 @@
 {
   "name": "firstheroku",
   "version": "1.0.0",
-  "description": "Test API",
+  "description": "Test API via heroku",
   "main": "web.js",
   "scripts": {
     "start": "node web",
