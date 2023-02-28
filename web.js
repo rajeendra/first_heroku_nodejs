@@ -54,7 +54,7 @@ app.use('/', require('./routes/root'));
 // This route just to test and it's not bound to .. 
 // ..any authentication, authorization or any database connection
 // Ex: testapi/, /testapi/todos, testapi/todos/:id,
-app.use('/xtestapi', require('./routes/test'));
+app.use('/ytestapi', require('./routes/test'));
 
 // Ex: register/, /register/subreg, register/*,
 app.use('/register', require('./routes/register'));
